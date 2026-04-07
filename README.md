@@ -52,4 +52,4 @@ Penelitian ini menggunakan dataset **Students Academic Performance** yang dipero
 - Multivariate Analysis of Variance (MANOVA)  
 - Multivariate Analysis of Covariance (MANCOVA)  
 
-Analisis dilakukan menggunakan bahasa pemrograman **R** dan dipublikasikan melalui **RPubs**.
+Analisis dilakukan menggunakan bahasa pemrograman **R** dan dipublikasikan melalui **RPubs** https://rpubs.com/cantikaalne/1418441. 
