@@ -1,6 +1,6 @@
 # Modul Analisis Multivariat Menggunakan MANOVA dan MANCOVA
 
-## Pengaruh Faktor Demografis dan Dukungan Belajar terhadap Performa Akademik Siswa
+## Pengaruh Faktor Demografis dan Dukungan Belajar terhadap Performa Akademik Siswa dengan Metode Analisis MANOVA dan MANCOVA
 
 **Disusun oleh:**  
 Cantika Latifatul N.E (24031554023)  
